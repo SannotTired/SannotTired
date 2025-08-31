@@ -1,18 +1,24 @@
-### 摸鱼选手 🐟🐟
+Hi, I'm San👋
 
-[GitHub 统计](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=dracula)
+- 💻 Working at 江苏灵匠信息科技有限公司
+- 📍 Based in China
+- 📧 Reach me by email: [lishihang588@gmail.com](mailto:lishihang588@gmail.com)
+- 🎬 Check out my Douyin: [https://v.douyin.com/PXHcRwn48QA/](https://v.douyin.com/PXHcRwn48QA/)
+- ✨ Nice to meet you
 
-<div align="center">
+### San's GitHub Stats
+| Metric                | Value |
+|-----------------------|-------|
+| Total Stars Earned:   | 588   |
+| Total Commits (2025): | 50    |
+| Total PRs:            | 55    |
+| Total Issues:         | 7     |
+| Contributed to (last year): | 4     |
 
-[![知乎](https://img.shields.io/badge/知乎-蓝色?style=flat-square)](你的知乎个人主页链接)
-[![B站](https://img.shields.io/badge/B站-粉色?style=flat-square)](你的B站个人主页链接)
-[![技术栈](https://img.shields.io/badge/技术栈-JavaScript%20%7C%20Python-blue?style=flat-square)](可放技术相关页面链接)
-[![兴趣-游戏](https://img.shields.io/badge/兴趣-游戏-绿色?style=flat-square)]()
-[![性格-佛系](https://img.shields.io/badge/性格-佛系-黄色?style=flat-square)]()
-[![爱好-摄影](https://img.shields.io/badge/爱好-摄影-紫色?style=flat-square)]()
-
-</div>
-
-![头像](你的头像图片链接)
-
-[访客数](https://profile-counter.glitch.me/你的标识/count.svg)
+### Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Wakatime](https://img.shields.io/badge/Wakatime-000000?style=for-the-badge&logo=wakatime&logoColor=white)
