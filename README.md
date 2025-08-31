@@ -1,3 +1,7 @@
+<a href="https://moeyua.com">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SannotTired&show_icons=true&hide_border=true" />
+</a>
+
 # **Hi, I'm San💙**
 
 -   **💻 A passionate digital nomad**  
